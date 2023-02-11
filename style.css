@@ -119,6 +119,9 @@ body {
         width: 45px;
         height: 45px;
     }
+    .mainarea div {
+        font-size: 1.2rem;
+    }
 }
 
 
